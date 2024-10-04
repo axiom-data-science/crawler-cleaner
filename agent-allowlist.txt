@@ -1,0 +1,12 @@
+aiohttp
+Apache-HttpClient
+^curl
+Go-http-client
+http_get
+httpx
+libwww-perl
+node-fetch
+okhttp
+python-requests
+Python-urllib
+[wW]get
