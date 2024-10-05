@@ -62,7 +62,7 @@ to view counts of user agents using [`jq`](https://jqlang.github.io/jq/):
 
 To add crawler agents to the set obtained from
 [crawler-user-agents](https://github.com/monperrus/crawler-user-agents/blob/master/crawler-user-agents.json),
-you may create a text file (default `./extra-user-agents.txt` and add user agent patterns,
+you may create a text file (default `./extra-user-agents.txt`) and add user agent patterns,
 one per line. Note that these patterns can be regular expressions, but forward slashes `/` do
 not need to be escaped as they are in the `crawler-user-agents.json` file
 (i.e. use `meta-externalagent/` and not `meta-externalagent\\/`.
