@@ -18,7 +18,7 @@ special meaning for the output files;
 
 * `0`, `/dev/null`, `null` - discard output
 * `-`, `/dev/stdout`, `stdout` - write output to stdout
-- `+`, `/dev/stderr`, `stderr` - write output to stderr
+* `+`, `/dev/stderr`, `stderr` - write output to stderr
 
 ## Example usage
 
